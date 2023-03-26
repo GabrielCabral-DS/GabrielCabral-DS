@@ -1,8 +1,4 @@
 ## Olá! Eu sou Gabriel Cabral
-- 👋 Hi, I’m Gabriel Cabral D' arce Cardoso
-- 💻 I'm currently interested in Full-Stack, mobile
-- 💣 I’m currently learning  HTML,CSS,Java
-
 
 <div align="center">
   <a href="https://github.com/GabrielCabral-DS">
