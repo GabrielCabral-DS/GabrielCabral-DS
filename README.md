@@ -15,7 +15,6 @@
   <img align="center" alt="Gc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gc-Figma" height="30" width="20" src="https://nearfutu.re/wp-content/uploads/2019/12/figma-logo-color.png">
-  <img align="center" alt="Gc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gc-Js" height="30" width="40" src="https://logospng.org/download/java/logo-java-512.png">
 </div>
 <hr>
