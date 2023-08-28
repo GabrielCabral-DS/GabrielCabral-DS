@@ -1,5 +1,5 @@
 ## Olá! Eu sou Gabriel Cabral
-
+- 👾 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010
 - 👋 Hi, I’m Gabriel Cabral D' arce Cardoso
 - 💻 I'm currently interested in Full-Stack, mobile
 - 💣 I’m currently learning  HTML,CSS,Java
