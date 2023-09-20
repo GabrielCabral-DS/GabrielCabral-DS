@@ -5,6 +5,9 @@
 - 💣 I’m currently learning  HTML, CSS, Java, Mobile
 
 
+- 📋 Currículo: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=MkGvwa">Portuguese</a>
+
+
 <div align="center">
   <a href="https://github.com/GabrielCabral-DS">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielCabral-DS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
