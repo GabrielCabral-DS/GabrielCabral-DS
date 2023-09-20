@@ -20,7 +20,7 @@
   <img align="center" alt="Gc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gc-Figma" height="30" width="20" src="https://nearfutu.re/wp-content/uploads/2019/12/figma-logo-color.png">
   <img align="center" alt="Gc-Js" height="30" width="40" src="https://logospng.org/download/java/logo-java-512.png">
-  <img align="center" alt="Gc-Android" height="30" width="40" src="https://www.freepnglogos.com/images/android-logo-12382.html">
+  <img align="center" alt="Gc-Android" height="30" width="40" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-healthy-information-5.png">
 
 </div>
 <hr>
