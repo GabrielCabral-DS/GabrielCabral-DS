@@ -17,10 +17,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Gc-MySql" height="30" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png">
   <img align="center" alt="Gc-Figma" height="30" width="20" src="https://nearfutu.re/wp-content/uploads/2019/12/figma-logo-color.png">
-  <img align="center" alt="Gc-Js" height="30" width="40" src="https://logospng.org/download/java/logo-java-512.png">
+  <img align="center" alt="Gc-Java" height="30" width="40" src="https://logospng.org/download/java/logo-java-512.png">
   <img align="center" alt="Gc-Android" height="30" width="40" src="https://logopng.com.br/logos/android-3.png">
+  <img align="center" alt="Gc-Kotlin" height="30" width="40" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
 
 </div>
 <hr>
