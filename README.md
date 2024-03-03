@@ -5,7 +5,7 @@
 - 💣 I’m currently learning  HTML, CSS, Java, Mobile
 
 
-- 📋 Currículo: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
+- 📋 Curriculum: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
 
 
 <div align="center">
