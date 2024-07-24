@@ -1,8 +1,8 @@
 ## Olá! Eu sou Gabriel Cabral
 - 👋 Hi, I’m Gabriel Cabral D' arce Cardoso
 - 👾 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010
-- 💻 I'm currently interested in Full-Stack, Android Native Mobile Developer
-- 💣 I’m currently learning  HTML, CSS, Java, Kotlin, Mobile
+- 💻 I'm currently interested in Full-Stack, Mobile Developer
+- 💣 I’m currently learning  HTML, CSS, Java/Spring, Kotlin, Flutter
 
 
 - 📋 Curriculum: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
