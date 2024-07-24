@@ -23,6 +23,7 @@
   <img align="center" alt="Gc-Android" height="30" width="40" src="https://logopng.com.br/logos/android-3.png">
   <img align="center" alt="Gc-Kotlin" height="30" width="40" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
   <img align="center" alt="Gc-PostgreeSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Gc-Flutter" height="30" width="40" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
 </div>
 <hr>
 <div> 
