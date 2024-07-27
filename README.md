@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Gabriel Cabral D' arce Cardoso
 - 👾 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010
 - 💻 I'm currently interested in Full-Stack, Mobile Developer
-- 💣 I’m currently learning  HTML, CSS, Java/Spring, Kotlin, Flutter
+- 💣 I’m currently learning  HTML, CSS, Java/Spring, Kotlin Multiplataform Mobile
 
 
 - 📋 Curriculum: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
@@ -23,7 +23,6 @@
   <img align="center" alt="Gc-Android" height="30" width="40" src="https://logopng.com.br/logos/android-3.png">
   <img align="center" alt="Gc-Kotlin" height="30" width="40" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
   <img align="center" alt="Gc-PostgreeSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Gc-Flutter" height="30" width="40" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
 </div>
 <hr>
 <div> 
