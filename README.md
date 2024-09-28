@@ -6,7 +6,6 @@
 
 
 - 📋 Curriculum: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
-<hr>
 
 <div align="center">
   <a href="https://github.com/GabrielCabral-DS">
