@@ -6,7 +6,8 @@
 
 
 - 📋 Curriculum: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
-
+  
+ <br><br>
  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielCabral-DS&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielCabral-DS&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
