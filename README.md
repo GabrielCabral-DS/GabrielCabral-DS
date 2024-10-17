@@ -7,11 +7,10 @@
 
 - 📋 Curriculum: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
 
-<div align="center">
-  <a href="https://github.com/GabrielCabral-DS">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielCabral-DS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCabral-DS&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ 
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GabrielCabral-DS&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielCabral-DS&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 
 </div>
   <div align="left" >
