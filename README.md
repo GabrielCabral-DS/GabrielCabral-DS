@@ -13,17 +13,15 @@
   <img width="50%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCabral-DS&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gc-MySql" height="30" width="40" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png">
-  <img align="center" alt="Gc-Figma" height="30" width="20" src="https://nearfutu.re/wp-content/uploads/2019/12/figma-logo-color.png">
-  <img align="center" alt="Gc-Java" height="30" width="40" src="https://logospng.org/download/java/logo-java-512.png">
-  <img align="center" alt="Gc-SpringBoot" height="30" width="40" src="https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png">
-  <img align="center" alt="Gc-Android" height="30" width="40" src="https://logopng.com.br/logos/android-3.png">
-  <img align="center" alt="Gc-Kotlin" height="30" width="40" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png">
-  <img align="center" alt="Gc-PostgreeSql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 </div>
+  <div align="left" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,html,css,docker,figma,postman,bootstrap,postgres,mysql,java,spring,kotlin,flutter" />
+</a>
+  <br />
+
+  </div>
+  
 <hr>
 <div> 
   <a href="https://discord.gg/ftHSTMUVFx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -32,5 +30,3 @@
   <a href="https://www.linkedin.com/in/gabriel-cabral-878482262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabrielcabraldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-</div>
-
