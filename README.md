@@ -5,7 +5,7 @@
 - 💣 I’m currently learning  HTML, CSS, Java/Spring, Flutter, Kotlin Multiplataform Mobile
 
 
-- 📋 Curriculum: <a href="https://1drv.ms/w/s!AnHHhDxrquDR4lqnWmnlSf5DWQft?e=3gUe4g" target="_blank">Portuguese</a>
+- 📋 Curriculum: <a href="https://gabrielcabral-ds.github.io/curriculo/" target="_blank">Portuguese</a>
   
  <br><br>
  
