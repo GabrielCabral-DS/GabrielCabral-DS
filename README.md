@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Gabriel Cabral D' arce Cardoso
 - 👾 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010
 - 💻 I'm currently interested in Back-End Developer
-- 💣 I’m currently learning  HTML, CSS, Java/Spring, Flutter, Kotlin Multiplataform Mobile
+- 💣 I’m currently learning  HTML, CSS, Java/Spring, Kotlin/Spring
 
 
 - 📋 Curriculum: <a href="https://gabrielcabral-ds.github.io/curriculo/" target="_blank">Portuguese</a>
@@ -16,7 +16,7 @@
 </div>
   <div align="left" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,html,css,docker,figma,postman,bootstrap,postgres,mysql,java,spring,kotlin,c#" />
+  <img src="https://skillicons.dev/icons?i=git,html,css,docker,figma,postman,bootstrap,postgres,mysql,java,spring,kotlin" />
 </a>
   <br />
 
