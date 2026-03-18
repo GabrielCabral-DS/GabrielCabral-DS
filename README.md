@@ -1,8 +1,10 @@
-## Olá! Eu sou Gabriel Cabral
-- 👋 Hi, I’m Gabriel Cabral D' arce Cardoso
-- 👾 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010
-- 💻 I'm currently interested in Back-End Developer
-- 💣 I’m currently learning  HTML, CSS, Java/Spring, Kotlin/Spring
+## Olá! Eu sou Gabriel Cabral  
+
+- 👋 Hi, I’m Gabriel Cabral D'Arce Cardoso  
+- 👾 01010000 01110010 01101111 01100111 01110010 01100001 01101101 01101101 01100101 01110010  
+- 💻 I'm a Full Stack Developer (Java • Spring Boot • Angular)  
+- 🚀 Currently building scalable APIs and modern web applications  
+- 💣 I’m currently working with Java/Spring, Kotlin/Spring, Python/Django, Angular, HTML, CSS  
 
 
 - 📋 Curriculum: <a href="https://gabrielcabral-ds.github.io/curriculo/" target="_blank">Portuguese</a>
