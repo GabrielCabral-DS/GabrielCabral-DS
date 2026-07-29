@@ -7,7 +7,7 @@
 - 💣 I’m currently working with Java/Spring, Kotlin/Spring, Python/Django, Angular, HTML, CSS  
 
 
-- 📋 Curriculum: <a href="https://gabrielcabral-ds.github.io/curriculo/" target="_blank">Portuguese</a>
+- 📋 Linkedin: <a href="https://www.linkedin.com/in/gabriel-cabral-878482262/" target="_blank">Portuguese</a>
   
  <br><br>
  
